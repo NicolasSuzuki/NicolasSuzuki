@@ -1,23 +1,29 @@
-## Olá! Eu sou o Suzuki
-<div align="center">
-  <a href="https://github.com/NicolasSuzuki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSuzuki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSuzuki&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Suzuki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Suzuki-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Suzuki-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Suzuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Suzuki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Suzuki-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Suzuki-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Suzuki-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+# Hi there, I'm Nicolas Suzuki 👋
 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/nicolas-alves-suzuki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+I'm a passionate Software Developer with experience in **React.js**, **Django**, **Node.js**, and other modern technologies. I love to create high-quality web and mobile applications and collaborate with teams to deliver exceptional results.
+
+## 🌐 Connect with me:
+- LinkedIn: [www.linkedin.com/in/nicolas-alves-suzuki](https://www.linkedin.com/in/nicolas-alves-suzuki/)
+- Email: nicolas.suzuki@gmail.com
+
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, TypeScript, Python, PHP
+- **Frameworks**: React, Django, Flask, Vue.js
+- **Tools**: AWS, Git, PostgreSQL, MySQL, Elasticsearch, Figma
+
+## 📚 Education
+- **Bachelor of Science in Computer Science**, Unifesp - Federal University of São Paulo (Jan 2019 - Dec 2025)
+- **Technical Degree in Mechatronics**, Colégio Técnico ETEP (Jan 2016 - Dec 2019)
+
+## 💼 Professional Experience
+- **Pixel Breeders** (Nov 2023 - Present): Software Developer
+- **Magroove** (Mar 2023 - Nov 2023): Software Developer
+- **NECTO Systems** (Apr 2022 - Mar 2023): Development Intern
+- **Kuadro** (Mar 2021 - Apr 2022): Junior Developer
+- **Kuadro** (Jan 2020 - Mar 2021): IT Internship
+- **Kuadro** (Mar 2019 - Jan 2020): Visual Production Intern
+
+## 🌟 Highlights
+- Led projects involving error log capturing with Flask and Elasticsearch.
+- Mentored interns, conducted client meetings, and participated in planning poker for sprint organization.
+- Mastered Vim and optimized productivity by sharing best practices with the team.
