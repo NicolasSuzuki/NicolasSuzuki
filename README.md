@@ -24,6 +24,6 @@ I'm a passionate Software Developer with experience in **React.js**, **Django**,
 - **Kuadro** (Mar 2019 - Jan 2020): Visual Production Intern
 
 ## 🌟 Highlights
-- Led projects involving error log capturing with Flask and Elasticsearch.
+- Log projects involving error log capturing with Flask and Elasticsearch.
 - Mentored interns, conducted client meetings, and participated in planning poker for sprint organization.
 - Mastered Vim and optimized productivity by sharing best practices with the team.
